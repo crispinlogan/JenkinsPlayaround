@@ -1,3 +1,7 @@
+"""
+Prints 'Hello world!'
+"""
+
 def print_hello_world():
     """
     Prints 'Hello world!'
